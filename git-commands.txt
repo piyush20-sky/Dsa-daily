@@ -1,0 +1,17 @@
+git init - Initialise git inside a project .
+
+git add . or git add filename - to add the changes to staging area so that it is ready for commit
+
+git status - to know the status of the current project what is the changes made from the last commit
+
+git commit -m “ “ - to commit the changes with a message 
+
+git reset < hash code > - get the previous version of the project
+
+git stash - stash the present changes to some backstage so that you can start with the last commit and when needed you can pull the stashed code from back to front.
+
+git stash pop - get the stash from backstage to front so that now you can add that.
+
+git stash clear - to clear all the changes that you put in the backstage as it is not needed now.
+
+git log - get log of all the changes you have done.
