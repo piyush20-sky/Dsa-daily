@@ -15,3 +15,10 @@ git stash pop - get the stash from backstage to front so that now you can add th
 git stash clear - to clear all the changes that you put in the backstage as it is not needed now.
 
 git log - get log of all the changes you have done.
+
+git remote add origin <url> - add the url of the github repository to you project .
+
+git remote -v - all the url attached with your project
+
+git push origin master - push your local changes to the github repository on the master branch
+
